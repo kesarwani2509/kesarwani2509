@@ -1,5 +1,5 @@
 <h3 align="center">
-  JAI SHREE KRISHNA !! This is Saurabh Kesarwani
+   This is Saurabh Kesarwani
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -75,6 +75,7 @@
 <p align="center">
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/-jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/-visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"></a>
+    <a herf="#"><img alt="PyCharm" src=""></a>
 </p>
 
 ### 🪟 Operating Systems
